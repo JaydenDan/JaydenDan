@@ -7,7 +7,10 @@
   <a href="https://google.com/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);TO BE A RICH MAN!&center=true&size=27" />
   </a>
-🙋 Hello, 
+</div>
+
+<div align="center">
+  🙋 Hello, 
   I am a full-stack (possibly not full ^_^) digital farmer, doing some digital labor, 
   coming from the M78 Nebula, and I am good friends with Ultraman Zero.
 </div>
