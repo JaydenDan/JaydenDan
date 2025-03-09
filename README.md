@@ -4,15 +4,12 @@
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" width="250" height="250" />
   <!-- dynamic typing effect 动态打字效果 -->
 <div>
-  <a href="https://blog.sunguoqi.com/">
+  <a href="https://google.com/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);TO BE A RICH MAN!&center=true&size=27" />
   </a>
-</div>
-
-<div align="center>
 🙋 Hello, 
-I am a full-stack (possibly not full ^_^) digital farmer, doing some digital labor, 
-coming from the M78 Nebula, and I am good friends with Ultraman Zero.
+  I am a full-stack (possibly not full ^_^) digital farmer, doing some digital labor, 
+  coming from the M78 Nebula, and I am good friends with Ultraman Zero.
 </div>
 
 <br clear="both">
