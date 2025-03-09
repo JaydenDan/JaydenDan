@@ -10,9 +10,9 @@
 </div>
 
 <div align="center">
-  🙋 Hello, 
-  I am a full-stack (possibly not full ^_^) digital farmer, doing some digital labor, 
-  coming from the M78 Nebula, and I am good friends with Ultraman Zero.
+  # 🙋 Hello, 
+   - I am a full-stack (possibly not full ^_^) digital farmer, doing some digital labor.
+   - coming from the M78 Nebula, and I am good friends with Ultraman Zero.
 </div>
 
 <br clear="both">
